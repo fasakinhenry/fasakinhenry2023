@@ -43,3 +43,9 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/fasakinhenry/alx-pre_course" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=alx-pre_course&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/fasakinhenry/zero_day" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=zero_day&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasakinhenry&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fasakinhenry&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasakinhenry&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasakinhenry&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasaskinhenry&theme=dracula)
