@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=fasakinhenry&color=blue">
 </p>
 <p align="center">
     <a href="https://leetcode.com/fasakinhenry/"><img width="48%" src="https://leetcode.card.workers.dev/fasakinhenry?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
