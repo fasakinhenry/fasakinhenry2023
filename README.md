@@ -49,16 +49,13 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 
 <a href="http://www.github.com/fasakinhenry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fasakinhenry&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/fasakinhenry"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fasakinhenry&bg_color=27272a&color=ffffff&line=3382ed&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Fasakin Henry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fasakinhenry&theme=github-compact)](https://github.com/fasakinhenry/github-readme-activity-graph)
 
 <a href="https://github.com/fasakinhenry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/fasakinhenry/alx-low_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=alx-low_level_programming&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/fasakinhenry/alx-system_engineering-devops" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=alx-system_engineering-devops&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/fasakinhenry/alx-pre_course" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=alx-pre_course&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/fasakinhenry/zero_day" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=fasakinhenry&repo=zero_day&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" /></a></div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fasakinhenry&theme=dracula)
@@ -66,3 +63,7 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fasakinhenry&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fasakinhenry&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fasaskinhenry&theme=dracula)
+
+## Check out my GitHub city to visualize my GitHub stats and graph
+[Check out my city here](https://honzaap.github.io/GithubCity/?name=fasakinhenry&year=2023)
+<a href="https://honzaap.github.io/GithubCity/?name=fasakinhenry&year=2023"><img src="./githubcity.png" alt="Alt text" title="Optional title"></a>
