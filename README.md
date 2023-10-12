@@ -28,6 +28,8 @@ Full stack web developer and Product designer
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  I have an experience of more than 4 years working in the tech field/space
 
+![gitartwork](gitartwork.svg)
+
 <a href="https://www.github.com/fasakinhenry" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fasakinhenry?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a><a href="https://www.x.com/henqsoft" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
