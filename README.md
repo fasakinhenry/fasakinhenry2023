@@ -409,7 +409,7 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 
 <a href="https://github.com/fasakinhenry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasakinhenry&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=fasakinhenry&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=fasakinhenry&theme=onedark&column=8&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ## Top Repositories
 
