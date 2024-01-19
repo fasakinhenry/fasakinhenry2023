@@ -36,7 +36,7 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 /></a>
 
 <details>
-    <summary>Skills and Tools section</summary>
+    <summary style="font-size: 36px; font-weight: bold;>Skills and Tools section</summary>
 
 ### 💼 Technical Skills
 
