@@ -35,7 +35,8 @@ src="https://img.shields.io/github/followers/fasakinhenry?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
 /></a>
 
-## Skills
+<details>
+    <summary>Skills and Tools section</summary>
 
 ### 💼 Technical Skills
 
@@ -379,6 +380,8 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
+</details>
 
 ### Technical overview
 
