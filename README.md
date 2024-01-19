@@ -35,8 +35,10 @@ src="https://img.shields.io/github/followers/fasakinhenry?logo=github&style=for-
 src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-badge&color=3382ed&labelColor=27272a"
 /></a>
 
+# You wanna see some of my skills and the tool I use?
+
 <details>
-    <summary style="font-size: 36px; font-weight: bold;>Skills and Tools section</summary>
+    <summary >Click to toggle skills dropdown</summary>
 
 ### 💼 Technical Skills
 
