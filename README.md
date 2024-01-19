@@ -385,7 +385,7 @@ src="https://img.shields.io/twitter/follow/henqsoft?logo=twitter&style=for-the-b
 
 </details>
 
-# Yikes! A very important thing to do is to check out my Technical skills
+# Ahhh😱😱🙌, You haven't seen my technical skills
 
 <details>
     <summary>Click to see my technical overview</summary>
